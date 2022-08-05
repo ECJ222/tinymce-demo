@@ -125,6 +125,7 @@ const mentions_select = async (mention, success) => {
     userDetail.description +
     '</p>' +
     '</div>'
+    
   success(div)
 }
 
